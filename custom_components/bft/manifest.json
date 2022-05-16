@@ -1,0 +1,9 @@
+{
+  "domain": "bft",
+  "name": "BFT",
+  "version": "0.0.1",
+  "documentation": "https://github.com/perimore/bft",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": []
+}
